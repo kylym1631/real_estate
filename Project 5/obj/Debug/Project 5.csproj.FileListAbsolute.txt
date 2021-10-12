@@ -1,0 +1,13 @@
+C:\Users\root\source\repos\Project 5\Project 5\bin\Debug\Project 5.exe.config
+C:\Users\root\source\repos\Project 5\Project 5\bin\Debug\Project 5.exe
+C:\Users\root\source\repos\Project 5\Project 5\bin\Debug\Project 5.pdb
+C:\Users\root\source\repos\Project 5\Project 5\obj\Debug\Project 5.csprojAssemblyReference.cache
+C:\Users\root\source\repos\Project 5\Project 5\obj\Debug\Project_5.Form1.resources
+C:\Users\root\source\repos\Project 5\Project 5\obj\Debug\Project_5.Properties.Resources.resources
+C:\Users\root\source\repos\Project 5\Project 5\obj\Debug\Project 5.csproj.GenerateResource.cache
+C:\Users\root\source\repos\Project 5\Project 5\obj\Debug\Project 5.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\Project 5\Project 5\obj\Debug\Project 5.exe
+C:\Users\root\source\repos\Project 5\Project 5\obj\Debug\Project 5.pdb
+C:\Users\root\source\repos\Project 5\Project 5\obj\Debug\Project_5.ListOfProperties.resources
+C:\Users\root\source\repos\Project 5\Project 5\obj\Debug\Project_5.Add.resources
+C:\Users\root\source\repos\Project 5\Project 5\obj\Debug\Project_5.Search.resources

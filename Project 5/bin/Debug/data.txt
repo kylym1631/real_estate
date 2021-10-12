@@ -1,0 +1,85 @@
+ID: B-432
+Size: 30
+Floor: 5
+Age: 3
+Address: Adriano 1a
+Rooms: 4
+Bathrooms: 1
+Contract Type: Rental
+Price: 1000
+Optons: Furnished, With Owner, Internet, Elevator, Hot/Cold Water, Inductive Stove, 
+Owner's name: Antonio
+Owner's surname: Bianchi
+Owner's birthday: 20.04.1952
+Owner's address: Adriano 1a
+Owner's phone: 48123456
+Owner's email: antonio@gmail.com
++++++++++++++++++++++++++++++
+ID: N-5155
+Size: 25
+Floor: 2
+Age: 4
+Address: belgradzka 2b
+Rooms: 2
+Bathrooms: 1
+Contract Type: Sell
+Price: 2000
+Optons: Furnished, With Owner, Internet, Elevator, Hot/Cold Water, Air Condition, Pool, Balcony, 
+Owner's name: Branchi
+Owner's surname: Jakubovski
+Owner's birthday: 12-08-1989
+Owner's address: belgradzka 2b
+Owner's phone: 4823456789
+Owner's email: brJ@gmail.com
++++++++++++++++++++++++++++++
+ID: Y-9440
+Size: 100
+Floor: 1
+Age: 10
+Address: Ciezcka 3
+Rooms: 8
+Bathrooms: 2
+Contract Type: Sell
+Price: 3000
+Optons: Furnished, With Owner, Hot/Cold Water, Bath Tube, Pool, Inductive Stove, Security Desk, 
+Owner's name: Cymon
+Owner's surname: Cilienko
+Owner's birthday: 30.04.1949
+Owner's address: Ciezcka 3
+Owner's phone: 48345678901
+Owner's email: cilien@gmail.com
++++++++++++++++++++++++++++++
+ID: X-9224
+Size: 200
+Floor: 3
+Age: 4
+Address: Driego 4d
+Rooms: 12
+Bathrooms: 2
+Contract Type: Rental
+Price: 4000
+Optons: Furnished, Hot/Cold Water, Bath Tube, Pool, Inductive Stove, Balcony, Security Desk, 
+Owner's name: Diezcko
+Owner's surname: Francisko
+Owner's birthday: 30.04.1956
+Owner's address: Driego 4d
+Owner's phone: 48456789012
+Owner's email: fran@gmail.com
++++++++++++++++++++++++++++++
+ID: R-6649
+Size: 50
+Floor: 2
+Age: 3
+Address: Evangeli 5e
+Rooms: 5
+Bathrooms: 1
+Contract Type: Sell
+Price: 5000
+Optons: Furnished, Internet, Hot/Cold Water, Bath Tube, Air Condition, Pool, Inductive Stove, Balcony, 
+Owner's name: Elvira
+Owner's surname: Eshelova
+Owner's birthday: 20.04.1983
+Owner's address: Evangeli 5e
+Owner's phone: 48567890123
+Owner's email: elv@gmail.com
++++++++++++++++++++++++++++++
